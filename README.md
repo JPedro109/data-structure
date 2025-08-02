@@ -13,5 +13,3 @@
 
 - Alocação na Memória:
   Cada item do array é armazenado em posições consecutivas na memória. Isso permite acesso eficiente por índice, mas também significa que o array precisa de um bloco contíguo de memória, o que pode ser uma limitação em certos contextos. Em arrays dinâmicos, quando a capacidade é excedida, um novo array maior é alocado, e os elementos são copiados — essa operação tem complexidade O(n), mas ocorre esporadicamente
-
----
